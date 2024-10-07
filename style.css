@@ -26,6 +26,7 @@ button {
     padding: 10px;
     background-color: #5cb85c;
     border: none;
+    dispaly:flex;
     color: white;
     cursor: pointer;
 }
